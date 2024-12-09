@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.btn-style {
+  @apply w-full md:w-fit py-3 px-9 cursor-pointer;
+}
