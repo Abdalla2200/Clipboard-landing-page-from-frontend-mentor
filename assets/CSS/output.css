@@ -773,10 +773,6 @@ video {
   padding-bottom: 3rem;
 }
 
-.pt-24 {
-  padding-top: 6rem;
-}
-
 .pt-32 {
   padding-top: 8rem;
 }
@@ -895,10 +891,6 @@ video {
     padding-bottom: 4rem;
   }
 
-  .md\:pb-16 {
-    padding-bottom: 4rem;
-  }
-
   .md\:pb-20 {
     padding-bottom: 5rem;
   }
@@ -919,10 +911,6 @@ video {
 
   .lg\:py-16 {
     padding-top: 4rem;
-    padding-bottom: 4rem;
-  }
-
-  .lg\:pb-16 {
     padding-bottom: 4rem;
   }
 
