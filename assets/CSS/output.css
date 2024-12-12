@@ -670,6 +670,10 @@ video {
   flex: 1 1 0%;
 }
 
+.cursor-pointer {
+  cursor: pointer;
+}
+
 .flex-col {
   flex-direction: column;
 }
@@ -849,6 +853,11 @@ video {
     width: -moz-fit-content;
     width: fit-content;
   }
+}
+
+.hover\:text-StrongCyan:hover {
+  --tw-text-opacity: 1;
+  color: hsl(171 66% 44% / var(--tw-text-opacity, 1));
 }
 
 .hover\:opacity-80:hover {
